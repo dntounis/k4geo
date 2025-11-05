@@ -5,10 +5,10 @@
  <comment>Be Beampipe and Be Cones</comment>
  <detector name="Beampipe" type="DD4hep_PolyconeSupport" insideTrackingVolume="true" vis="BeampipeVis">
   <material name="Beryllium"/>
-  <zplane rmin="bp_cone_dr+1.12*cm" rmax="bp_cone_dr+(1.12+0.07*1.0016)*cm" z="-20.50*cm"/>
+  <zplane rmin="bp_cone_dr+1.03*cm" rmax="bp_cone_dr+(1.03+0.07*1.0016)*cm" z="-20.50*cm"/>
   <zplane rmin="1.20*cm" rmax="(1.20+0.04)*cm" z="-6.25*cm"/>
   <zplane rmin="1.20*cm" rmax="(1.20+0.04)*cm" z="6.25*cm"/>
-  <zplane rmin="bp_cone_dr+1.12*cm" rmax="bp_cone_dr+(1.12+0.07*1.0016)*cm" z="20.50*cm"/>
+  <zplane rmin="bp_cone_dr+1.03*cm" rmax="bp_cone_dr+(1.03+0.07*1.0016)*cm" z="20.50*cm"/>
  </detector>
 <comment>Steel Beampipe Cones</comment>
 <detector name="ForwardSupportTube" type="DD4hep_PolyconeSupport" insideTrackingVolume="true" vis="BeampipeVis">
