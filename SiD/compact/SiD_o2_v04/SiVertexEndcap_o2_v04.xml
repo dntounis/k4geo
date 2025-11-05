@@ -39,7 +39,7 @@
   </module>
 
   <layer id="1">
-    <ring r="49.5*mm" zstart="76*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule1"/>
+    <ring r="49.50*mm" zstart="76*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule1"/>
   </layer>
   <layer id="2">
     <ring r="49.0*mm" zstart="95*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule2"/>

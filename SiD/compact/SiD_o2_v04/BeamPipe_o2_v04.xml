@@ -14,8 +14,8 @@
 <detector name="ForwardSupportTube" type="DD4hep_PolyconeSupport" insideTrackingVolume="true" vis="BeampipeVis">
   <material name="Steel235"/>
   <zplane rmin="steel_cone_dr+bp_cone_dr+1.20*cm" rmax="steel_cone_dr+bp_cone_dr+(1.20+0.15*1.0043)*cm" z="-120.0*cm"/>
-  <zplane rmin="bp_cone_dr+1.20*cm" rmax="bp_cone_dr+(1.20+0.107*1.0043)*cm" z="-20.50*cm"/>
-  <zplane rmin="bp_cone_dr+1.20*cm" rmax="bp_cone_dr+(1.20+0.107*1.0043)*cm" z="20.50*cm"/>
+  <zplane rmin="bp_cone_dr+1.03*cm" rmax="bp_cone_dr+(1.03+0.107*1.0043)*cm" z="-20.50*cm"/>
+  <zplane rmin="bp_cone_dr+1.03*cm" rmax="bp_cone_dr+(1.03+0.107*1.0043)*cm" z="20.50*cm"/>
   <zplane rmin="steel_cone_dr+bp_cone_dr+1.20*cm" rmax="steel_cone_dr+bp_cone_dr+(1.20+0.15*1.0043)*cm" z="120.0*cm"/>
 </detector>
 </detectors>
