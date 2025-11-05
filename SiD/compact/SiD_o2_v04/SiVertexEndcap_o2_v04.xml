@@ -39,16 +39,16 @@
   </module>
 
   <layer id="1">
-    <ring r="45.0*mm" zstart="76*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule1"/>
+    <ring r="49.5*mm" zstart="76*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule1"/>
   </layer>
   <layer id="2">
-    <ring r="45.5*mm" zstart="95*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule2"/>
+    <ring r="49.0*mm" zstart="95*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule2"/>
   </layer>
   <layer id="3">
-    <ring r="46.5*mm" zstart="125*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule2"/>
+    <ring r="49.0*mm" zstart="125*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule2"/>
   </layer>
   <layer id="4">
-    <ring r="48.0*mm" zstart="180*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule2"/>
+    <ring r="49.0*mm" zstart="180*mm" nmodules="16" dz="0.011*mm" module="SiVertexEndcapModule2"/>
   </layer>
  </detector>
 </detectors>
